@@ -3,8 +3,6 @@
 
 namespace Pforret\NuuzScraper;
 
-
 class NuuzScraper
 {
-
 }
