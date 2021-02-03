@@ -10,7 +10,7 @@
          processIsolation="false"
          stopOnFailure="false">
     <testsuites>
-        <testsuite name=":class_name Test Suite">
+        <testsuite name="NuuzScraper Test Suite">
             <directory>tests</directory>
         </testsuite>
     </testsuites>
